@@ -33,3 +33,6 @@ print(y+4)
 nome = input("Come ti chiami: ")#Legge una stringa
 eta=int (input("Quanti anni hai?: "))#legge la tringa e la converte in numero
 print (f"Ciao {nome}, hai {eta} anni")
+#NB: sono viste come vettori, accedono ad ogni carattera attraverso un indice
+#t[indice] vado verso destro t[-indice] se vado verso sinistra
+#t[0:4] dal primo indice fino all'ultimo NON compreso
